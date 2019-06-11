@@ -1,0 +1,2 @@
+This repository contains several solutions to problems in online judges such as UVa Online Judge and AceptaElReto.
+It also contains solutions to proposed problems in the private judges of the EDA (2017-2018) and MARP (2018-2019) courses at UCM (Complutense University of Madrid)
